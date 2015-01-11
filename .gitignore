@@ -52,3 +52,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+server/redis/dump.rdb
+server/redis/redis.log
+server/redis/redis.pid
+tmp
